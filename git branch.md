@@ -55,7 +55,6 @@ git tag -d <version> //menghilangkan tanda versi repo
   - Tidak menyebabkan masalah untuk versi pada branch lain
 
 ### Sumber
-
 * https://belajarwebdesign.com/web-programming/menggunakan-git-branch-dengan-optimal/
 * https://git-scm.com/book/id/v1/Branching-Pada-Git-Apakah-Branch-Itu
 ### Blog Bule
