@@ -30,3 +30,6 @@ Vertical & Horizontal
 ## Caching paling rekomendasi
     Lebih baik dilakukan di Database
     System -> chace/memory -> Database
+
+
+Sumber : https://www.youtube.com/watch?v=wH5LZ6ALxpw
